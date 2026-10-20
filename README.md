@@ -1,6 +1,7 @@
 <h1 align="center">🌱 ViveroHub — Sales & stock management system for a plant nursery</h1>
 
 <p align="center">
+  <a href="https://agusdev-portfolio.vercel.app/proyectos/viverohub"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Status-In_production-58A6FF?style=for-the-badge" alt="In production"/>
   <img src="https://img.shields.io/badge/Role-Solo_developer-30363D?style=for-the-badge" alt="Solo developer"/>
   <img src="https://img.shields.io/badge/Type-Internal_tool-2EA043?style=for-the-badge" alt="Internal tool"/>
